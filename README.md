@@ -2,7 +2,7 @@
 A full-stack web application designed to streamline the process of scheduling appointments between students and teachers.
 This platform allows students to view teacher availability and book slots, while teachers can manage their schedules and appointments efficiently.
 
-📸 Demo / Live Link
+📸 Demo 
 📂 Repository Link: https://github.com/vaibhavsonawane435/Student-Teacher-Booking-Appointment.git
 
 ✨ Features
@@ -28,7 +28,7 @@ Since this project has both a backend and a frontend, you need to set them up se
 1. Clone the Repository
 Bash
 
-git clone https://github.com/yourusername/student-teacher-booking.git
+git clone https://github.com/vaibhavsonawane435/Student-Teacher-Booking-Appointment.git
 cd student-teacher-booking
 2. Backend Setup
 Navigate to the backend folder to install dependencies and start the server.
@@ -85,4 +85,4 @@ Student-Teacher-Booking/
 📧 Contact
 vaibhav 📩 Email: vaibhavsonawane435@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin/in/vaibhavsonawane0
