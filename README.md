@@ -45,7 +45,7 @@ npm install
 
 # Start the server
 node server.js
-3. Frontend Setup
+#3. Frontend Setup
 Open a new terminal, navigate to the frontend folder, and start the React application.
 
 Bash
@@ -59,7 +59,7 @@ npm install
 npm run dev
 
 
-📁 Folder Structure
+#📁 Folder Structure
 Student-Teacher-Booking/
  ┣ 📂 backend/              # Server-side logic
  ┃ ┣ 📂 models/             # Database schemas
@@ -75,7 +75,7 @@ Student-Teacher-Booking/
    ┣ 📜 package.json        # Frontend scripts & dependencies
    ┗ 📜 README.md
 
-   🧠 Future Improvements
+   #🧠 Future Improvements
 [ ] Add email notifications for booking confirmations.
 [ ] Implement a real-time chat between students and teachers.
 [ ] Add a calendar view integration (e.g., Google Calendar).
