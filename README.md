@@ -45,7 +45,8 @@ npm install
 
 # Start the server
 node server.js
-#3. Frontend Setup
+
+# Frontend Setup
 Open a new terminal, navigate to the frontend folder, and start the React application.
 
 Bash
