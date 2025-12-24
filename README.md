@@ -25,12 +25,12 @@ This platform allows students to view teacher availability and book slots, while
 📦 Installation & Setup
 Since this project has both a backend and a frontend, you need to set them up separately.
 
-1. Clone the Repository
+#1. Clone the Repository
 Bash
 
 git clone https://github.com/vaibhavsonawane435/Student-Teacher-Booking-Appointment.git
 cd student-teacher-booking
-2. Backend Setup
+#2. Backend Setup
 Navigate to the backend folder to install dependencies and start the server.
 
 Bash
