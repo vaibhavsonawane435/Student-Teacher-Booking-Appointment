@@ -25,12 +25,12 @@ This platform allows students to view teacher availability and book slots, while
 📦 Installation & Setup
 Since this project has both a backend and a frontend, you need to set them up separately.
 
-1. Clone the Repository
+#1. Clone the Repository
 Bash
 
 git clone https://github.com/vaibhavsonawane435/Student-Teacher-Booking-Appointment.git
 cd student-teacher-booking
-2. Backend Setup
+#2. Backend Setup
 Navigate to the backend folder to install dependencies and start the server.
 
 Bash
@@ -45,7 +45,8 @@ npm install
 
 # Start the server
 node server.js
-3. Frontend Setup
+
+# Frontend Setup
 Open a new terminal, navigate to the frontend folder, and start the React application.
 
 Bash
@@ -59,7 +60,7 @@ npm install
 npm run dev
 
 
-📁 Folder Structure
+#📁 Folder Structure
 Student-Teacher-Booking/
  ┣ 📂 backend/              # Server-side logic
  ┃ ┣ 📂 models/             # Database schemas
@@ -75,7 +76,7 @@ Student-Teacher-Booking/
    ┣ 📜 package.json        # Frontend scripts & dependencies
    ┗ 📜 README.md
 
-   🧠 Future Improvements
+   #🧠 Future Improvements
 [ ] Add email notifications for booking confirmations.
 [ ] Implement a real-time chat between students and teachers.
 [ ] Add a calendar view integration (e.g., Google Calendar).
